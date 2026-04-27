@@ -1,8 +1,10 @@
-# Какой-то VPN: бесплатный Telegram proxy
+# Какой-то VPN: бесплатный TeleMT proxy
 
 Привет, народ.
 
-Держите публичный MTProto proxy для Telegram. Пользуйтесь, делитесь с друзьями и радуйтесь жизни: Telegram снова может работать без VPN.
+Держите публичный TeleMT proxy для Telegram. Это не обычный MTProxy, а TeleMT с TLS-маскировкой, который помогает Telegram работать стабильнее.
+
+Пользуйтесь, делитесь с друзьями и радуйтесь жизни: Telegram снова может работать без VPN.
 
 ## Подключить в один клик
 
@@ -16,7 +18,7 @@ https://t.me/proxy?server=mtproxy.kakoitovpn.ru&port=8448&secret=ee2ad117965b937
 
 ## Ввести вручную
 
-В настройках Telegram откройте раздел прокси и добавьте MTProto proxy:
+В настройках Telegram откройте раздел прокси и добавьте MTProto/TeleMT proxy:
 
 ```text
 Сервер: mtproxy.kakoitovpn.ru
