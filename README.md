@@ -28,6 +28,6 @@ https://t.me/proxy?server=mtproxy.kakoitovpn.ru&port=8448&secret=ee2ad117965b937
 
 ## Счетчик
 
-[![Просмотры](https://hits.sh/github.com/dukedanya/KAKOITOVPN.svg?style=flat-square&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=0088cc)](https://hits.sh/github.com/dukedanya/KAKOITOVPN/)
+<a href="https://hits.sh/github.com/dukedanya/KAKOITOVPN/"><img alt="Hits" src="https://hits.sh/github.com/dukedanya/KAKOITOVPN.svg"/></a>
 
 [График просмотров](https://hits.sh/github.com/dukedanya/KAKOITOVPN/)
