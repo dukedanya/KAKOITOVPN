@@ -27,7 +27,3 @@ https://t.me/proxy?server=mtproxy.kakoitovpn.ru&port=8448&secret=ee2ad117965b937
 ```
 
 Готово. Живите спокойно, общайтесь свободно, пусть Telegram просто работает.
-
-## Счетчик
-
-![График просмотров README](assets/hits-graph.svg)
